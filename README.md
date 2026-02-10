@@ -36,7 +36,7 @@ text
 HEART-ANIMATION/
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet
-├── app.js              # JavaScript animation logic
+├── script.js              # JavaScript animation logic
 └── README.md           # Project documentation
 Usage
 The animation runs automatically when you open the page. The canvas element renders the heart animation with dynamic effects that create an engaging visual experience.
